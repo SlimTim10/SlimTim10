@@ -1,7 +1,7 @@
 ![Banner](https://github.com/SlimTim10/SlimTim10/blob/main/brandmark-design-cropped.svg)
 
 # 💫 About Me:
-👋 Hi, I'm Tim!<br>🔭 I'm accepting new students for mentorship!<br>🌱 I’m currently learning Agda<br>💬 Ask me about functional programming<br>⚡ Visit [my blog](https://timjohns.ca/blog.html)
+👋 Hi, I'm Tim!<br>🔭 I'm on the lookout for a new position in a cool company<br>🌱 I’m currently learning Agda<br>💬 Ask me about functional programming<br>⚡ Visit [my blog](https://timjohns.ca/blog.html)
 
 
 # 💻 Tech Stack:
